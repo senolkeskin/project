@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.DataAccess\\ShopApp.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.DataAccess\\ShopApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.DataAccess\\ShopApp.DataAccess.csproj",
+        "projectName": "ShopApp.DataAccess",
+        "projectPath": "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.DataAccess\\ShopApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\SenolKeskin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SenolKeskin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.Entities\\ShopApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.Entities\\ShopApp.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.Entities\\ShopApp.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.Entities\\ShopApp.Entities.csproj",
+        "projectName": "ShopApp.Entities",
+        "projectPath": "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.Entities\\ShopApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\SenolKeskin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SenolKeskin\\Desktop\\Wep Tabanlı Windows\\WebProje\\OnlineTicket\\ShopApp.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SenolKeskin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

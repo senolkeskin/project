@@ -1,0 +1,42 @@
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.deps.json
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csprojAssemblyReference.cache
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfoInputs.cache
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfo.cs
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.pdb
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\SenolKeskin\Desktop\5-Repository Pattern-3\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CopyComplete
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.deps.json
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csprojAssemblyReference.cache
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfoInputs.cache
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfo.cs
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CopyComplete
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\SenolKeskin\Desktop\webproje\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.pdb
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.deps.json
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csprojAssemblyReference.cache
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfoInputs.cache
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfo.cs
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CopyComplete
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\SenolKeskin\Desktop\WebProje\OnlineTicket\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.pdb
